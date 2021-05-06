@@ -2,3 +2,5 @@ Edition du fichier texte
 Echo TOTO
 
 Tout est supprimé !
+
+cette branche est morte, la pauvre [lorem ipsum etc]
