@@ -1,2 +1,4 @@
 Edition du fichier texte
 Echo TOTO
+
+Tout est supprimé !
